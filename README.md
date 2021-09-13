@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @simonheimbuchner
+- 👀 I’m interested in: After Effects Scripting & Expressions
+- 💞️ I’m looking to collaborate on: everything code (:
+- 📫 How to reach me: simonheimbuchner@gmail.com
