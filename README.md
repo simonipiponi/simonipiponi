@@ -1,9 +1,6 @@
 
 Hi, I'm Simon. I do some Adobe After Effects related things.
 
-# My After Effects Repos
-
-
 ## [Demystifying the After Effects Text Expression Selector](https://github.com/simonipiponi/ae-text-expression-selector)
 <img src="https://github.com/simonipiponi/simonipiponi/assets/20266941/24fa24a2-bdbb-436b-bc35-561650219505" width="700">
 
