@@ -11,3 +11,5 @@ Hi, I'm Simon. I do some Adobe After Effects related things.
 
 ## [After Effects Expression Library](https://github.com/simonipiponi/ae-expression-library)
 <img src="https://github.com/simonipiponi/simonipiponi/assets/20266941/9d868deb-00c4-46b0-a6a5-a66acdc73b2e" width="700">
+
+## [CSV Setup](https://github.com/simonipiponi/ae-csv-setup)
