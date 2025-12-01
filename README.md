@@ -1,6 +1,9 @@
 
 Hi, I'm Simon. I do some Adobe After Effects related things.
 
+## [CSV Setup](https://github.com/simonipiponi/ae-csv-setup)
+<img src="https://github.com/user-attachments/assets/ac7bd9db-a792-4f5a-a218-648703fee3e2"  width="700"/>
+
 ## [Demystifying the After Effects Text Expression Selector](https://github.com/simonipiponi/ae-text-expression-selector)
 <img src="https://github.com/simonipiponi/simonipiponi/assets/20266941/24fa24a2-bdbb-436b-bc35-561650219505" width="700">
 
@@ -9,6 +12,3 @@ Hi, I'm Simon. I do some Adobe After Effects related things.
 
 ## [After Effects Expression Library](https://github.com/simonipiponi/ae-expression-library)
 <img src="https://github.com/simonipiponi/simonipiponi/assets/20266941/9d868deb-00c4-46b0-a6a5-a66acdc73b2e" width="700">
-
-## [CSV Setup](https://github.com/simonipiponi/ae-csv-setup)
-<img src="https://github.com/user-attachments/assets/ac7bd9db-a792-4f5a-a218-648703fee3e2"  width="700"/>
