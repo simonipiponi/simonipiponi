@@ -11,4 +11,4 @@ Hi, I'm Simon. I do some Adobe After Effects related things.
 <img src="https://github.com/simonipiponi/simonipiponi/assets/20266941/9d868deb-00c4-46b0-a6a5-a66acdc73b2e" width="700">
 
 ## [CSV Setup](https://github.com/simonipiponi/ae-csv-setup)
-<img src="https://github.com/user-attachments/assets/c11cbbfc-8266-4a46-8335-3db0d5d3b4de" width="700"/>
+<img src="https://github.com/user-attachments/assets/ac7bd9db-a792-4f5a-a218-648703fee3e2"  width="700"/>
